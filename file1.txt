@@ -1,1 +1,2 @@
-master changes  file1.txt
+master some ore chngaes 
+changes  file1.txt
